@@ -1,0 +1,6 @@
+{
+  "name": "plugin-outlets",
+  "modifiers": {
+    "svg_icons": ["fab-js"]
+  }
+}
